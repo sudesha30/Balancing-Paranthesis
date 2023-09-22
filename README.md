@@ -1,2 +1,2 @@
 # Balancing-Paranthesis
-C++ program for balancing paranthesis using stacks
+C++ program for balancing paranthesis using stack
